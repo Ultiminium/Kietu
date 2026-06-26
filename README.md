@@ -306,4 +306,8 @@ The fastest way to add a game: paste this README and the `Game` trait definition
 
 ## License
 
-MIT
+Custom
+
+## Disclaimer
+
+This code is made entirely by a generative AI. I do not claim to have made any of this code.
